@@ -1,7 +1,5 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import logoIcon from "../assets/Images/logoImage.png";
-import { Footer } from "./Footer";
 
 const HeroSection = () => {
   return (
@@ -16,7 +14,6 @@ const HeroSection = () => {
           CARE OF THAT
         </span>
       </div>
-      <Footer/>
     </section>
   );
 };

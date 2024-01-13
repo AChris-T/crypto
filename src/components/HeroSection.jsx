@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <section className="mb-20">
       <div className=" flex flex-col align-middle items-center justify-center">
-        <p className=" text-[150%] text-white md:text-[200%] ">
+        <p className=" text-[120%] text-white md:text-[200%]  ">
           Welcome to CryptoUndeads
         </p>
         <br />
